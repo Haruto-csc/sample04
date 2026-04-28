@@ -1,0 +1,2 @@
+payment=casheless
+fee=4.15%
